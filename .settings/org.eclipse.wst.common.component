@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-        
-    <wb-module deploy-name="Projeto_Convidados">
-                
-        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
-                
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-                
-        <property name="java-output-path" value="/Projeto_Convidados/build/classes"/>
-        <property name="context-root" value="Projeto_Convidados"/>
             
-    </wb-module>
     
+    <wb-module deploy-name="wedding-list-controll">
+                        
+        
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+                        
+        
+        <property name="java-output-path" value="/wedding-list-controll/build/classes"/>
+        <property name="context-root" value="wedding-list-controll"/>
+                    
+    
+    </wb-module>
+        
+
 </project-modules>
