@@ -19,7 +19,7 @@ public class ConnectionFactory {
 		String porta = "3306";
 		String database = "pwefinal";
 		return DriverManager.getConnection("jdbc:mysql://"+servidor+":"+porta+"/"+database+""
-                + "?useTimezone=true&serverTimezone=UTC", "root", "DeivideMeira19");
+                + "?useTimezone=true&serverTimezone=UTC", "root", "***");
 
 	}
 
