@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+/*
+ * style.css
+ */
+body {
+  padding-top: 50px;
+}@CHARSET "UTF-8";
+/*
+ * style.css
+ */
+body {
+  padding-top: 50px;
+  background-color: lightblue;
+}
+h3 {
+  color: white;
+  text-align: center;
+}
+p {
+  color: white;
+}
